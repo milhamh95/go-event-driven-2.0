@@ -1,4 +1,4 @@
-exercise_id = "54fe5f21-058d-4d29-a208-21c0a348dadc"
-directory = "01-intro/01-start"
-is_text_only = true
+exercise_id = "a47c877d-c651-412f-ae78-d295e89e51db"
+directory = "02-async/01-goroutines"
+is_text_only = false
 is_optional = false
