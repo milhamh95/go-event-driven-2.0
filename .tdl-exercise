@@ -1,4 +1,4 @@
-exercise_id = "6e96cc8b-c379-44f9-a29f-334afe74a8ab"
-directory = "project"
+exercise_id = "681c3aaa-a251-4ebc-8ff8-4bf8c165f2cf"
+directory = "03-message-broker/03-subscribing"
 is_text_only = false
 is_optional = false
